@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-audio",
+      "description": "Abstract audio wave representing voice recording",
+      "imageUrl": "https://picsum.photos/seed/oraly-hero/1200/600",
+      "imageHint": "audio wave"
+    }
+  ]
+}
